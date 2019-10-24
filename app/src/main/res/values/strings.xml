@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QueueApp</string>
+    <string name="btn_cancel_ticket"><u>Cancel Request</u></string>
+</resources>
